@@ -15,7 +15,7 @@ function Card({setCart}) {
                             {/* <!-- Sale badge--> */}
                             <div className="badge bg-dark text-white position-absolute" style={{top: "0.5rem", right: "0.5rem"}}>Sale</div>
                             {/* <!-- Product image--> */}
-                            <img className="card-img-top" src="https://media4.newsnationtv.com/resize/930_-/images/2020/03/08/realme6sale-738.jpg" alt="..." />
+                            <img className="card-img-top" src="src/img/images.jpg" alt="..." />
                             {/* <!-- Product details--> */}
                             <div className="card-body p-4">
                                 <div className="text-center">
